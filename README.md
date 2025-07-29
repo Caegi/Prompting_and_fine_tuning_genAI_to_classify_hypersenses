@@ -18,6 +18,4 @@ Comparing:
 - a small LLM fine-tuned for instructions with in-context learning
 - parameter-efficient fine-tuning of LoRA on the full training set
 
-I am currently contacting my college that has the other half of the project to put it on Github
-
-
+Fine tuning LoRA reached better scores
