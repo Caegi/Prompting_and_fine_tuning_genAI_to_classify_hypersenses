@@ -19,3 +19,5 @@ Comparing:
 - parameter-efficient fine-tuning of LoRA on the full training set
 
 Fine tuning LoRA reached better scores
+
+Link to google colab file: https://colab.research.google.com/drive/1aI5z5b3A75fFs8NemDVOyTXNtgL-qKgD?usp=sharing
