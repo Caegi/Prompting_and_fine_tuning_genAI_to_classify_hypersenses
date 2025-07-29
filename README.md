@@ -10,3 +10,12 @@ We will use a dataset of manually labeled word senses, adapted from (Barque et a
 
 These word senses were labeled with a "supersense", each supersense corresponding to a broader "hypersense".
 
+
+# Classifiers
+
+Comparing:
+
+- a small LLM fine-tuned for instructions with in-context learning
+- parameter-efficient fine-tuning of LoRA on the full training set
+
+
