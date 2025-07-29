@@ -1,6 +1,6 @@
 # Task
 
-The task is to classify word sense definitions into coarse semantic categories named "hypersenses".
+The task is to classify word sense definitions into coarse semantic categories named "hypersenses" based on their dictionnary definitions.
 
 In this project, the objective is to explore several ways of using LLMs for this task.
 
